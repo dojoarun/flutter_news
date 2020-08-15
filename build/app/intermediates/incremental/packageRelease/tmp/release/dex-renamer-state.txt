@@ -1,0 +1,4 @@
+#Sun May 17 14:00:17 IST 2020
+base.0=/Users/dojo/AndroidStudioProjects/daily_online/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

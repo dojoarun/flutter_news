@@ -1,0 +1,4 @@
+#Mon May 18 02:44:45 IST 2020
+base.0=/Users/dojo/AndroidStudioProjects/daily_online/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
